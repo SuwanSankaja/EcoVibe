@@ -107,8 +107,4 @@ We welcome contributions! To contribute:
 ### Recycling Guide
 ![Recycling Guide](src/assets/recycling-guide.jpeg)
 
----
 
-## Contact
-
-Have questions or suggestions? Feel free to contact us at **eco-uni-support@example.com**.
