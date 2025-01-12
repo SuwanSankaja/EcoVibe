@@ -26,7 +26,7 @@ Welcome to **EcoVibe**, a platform designed to promote sustainability and eco-fr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/EcoVibe.git
+   git clone https://github.com/SuwanSankaja/EcoVibe.git
    ```
 
 2. **Navigate to the project directory**:
