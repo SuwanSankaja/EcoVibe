@@ -1,6 +1,6 @@
 # EcoVibe
 
-![Eco Uni Assistant](src/assets/eco-friendly.jpg)
+![Eco Uni Assistant](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/EcoVibe/eco-friendly.jpg)
 
 Welcome to **EcoVibe**, a platform designed to promote sustainability and eco-friendliness within university communities. This app encourages green practices, provides resources, and engages users with challenges and tips to make a positive environmental impact.
 
@@ -100,11 +100,11 @@ We welcome contributions! To contribute:
 ## Idea
 
 ### Green Concept
-![Home Screen](src/assets/green-tips.jpeg)
+![Home Screen](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/EcoVibe/green-tips.jpeg)
 
 
 
 ### Recycling Guide
-![Recycling Guide](src/assets/recycling-guide.jpeg)
+![Recycling Guide](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/EcoVibe/recycling-guide.jpeg)
 
 
